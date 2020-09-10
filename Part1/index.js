@@ -71,9 +71,7 @@ function play(clickedId){
     }
 }
 
-function resetBoard (){
-    
-}
+
 
 
 
